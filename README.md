@@ -63,8 +63,19 @@ The objective of this project is to:
 
 ## Dashboard Preview
 
-📄 Power BI Dashboard (PDF version):  
-`dashboard/Global_EV_Sales_PowerBI_Dashboard.pdf`
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview](screenshots/dashboard_regional_category.png)
+
+### Powertrain & Mode Insights
+![Powertrain Mode](screenshots/dashboard_powertrain_mode_analysis.png)
+
+### Powertrain & Unit Analysis
+![Powertrain Unit](screenshots/dashboard_powertrain_unit_analysis.png)
+
+### Time Series Analysis
+![Time Series](screenshots/dashboard_time_series.png)
 
 > Note: Live public sharing is restricted due to Power BI tenant limitations. A PDF version of the dashboard is shared for portfolio and review purposes.
 
